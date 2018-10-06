@@ -8,3 +8,5 @@ bye
 Ajout ajout plus plus
 
 Fin du fichier
+
+Ajout à la fin de la fin pour Fred-Demo
