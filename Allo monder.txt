@@ -1,4 +1,4 @@
-
+﻿
 
 bye
 
@@ -7,6 +7,10 @@ bye
 
 Ajout ajout plus plus
 
+<<<<<<< HEAD
 Fin de la fichier
+=======
+Fin de notre fichier
+>>>>>>> Freddy
 
 Ajout à la fin de la fin pour Fred-Demo
