@@ -10,7 +10,7 @@ Hugo
 Ajout ajout plus plus
 
 
-Fin de notre fichier
-BLA BLA ENSEMBLE
+Fin de la fichier qui se trouve dans la branch Hugo-Demo
+BLA BLouk ENSEMBLE
 
 Fin de la fin pour Fred-Demo
