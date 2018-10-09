@@ -1,7 +1,9 @@
 ﻿
 
 bye
-
+HUGO HUGO HUGO
+k = 1000
+Hugo
 
 
 
