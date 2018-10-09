@@ -7,10 +7,9 @@ bye
 
 Ajout ajout plus plus
 
-<<<<<<< HEAD
-Fin de la fichier
-=======
+
 Fin de notre fichier
->>>>>>> Freddy
+BLA BLA ENSEMBLE
+
 
 Ajout à la fin de la fin pour Fred-Demo
