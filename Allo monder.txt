@@ -7,8 +7,8 @@ bye
 
 Ajout ajout plus plus
 
+
 Fin de notre fichier
 Ajout dans le fichier pour Freddy branch
-BLA BLA ENSEMBLE
 
-Ajout à la fin de la fin pour (C'est du vieux) Fred-Demo
+Fin de la fin pour (C'est du vieux) Fred-Demo
